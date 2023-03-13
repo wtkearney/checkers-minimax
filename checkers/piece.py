@@ -1,4 +1,4 @@
-# Candidate number: 244118
+# Will Kearney
 # piece.py
 #
 # Defines the Piece class, containing methods for drawing a piece, checking if it's selected

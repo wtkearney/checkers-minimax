@@ -1,4 +1,4 @@
-# Candidate number: 244118
+# Will Kearney
 # main.py
 #
 # This is the main file that is run to launch the game.

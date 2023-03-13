@@ -1,4 +1,4 @@
-# Candidate number: 244118
+# Will Kearney
 # board.py
 #
 # Defines the Board class, containing the data structure for the board, list of legal moves, and methods for getting subsequent moves.

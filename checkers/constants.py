@@ -1,4 +1,4 @@
-# Candidate number: 244118
+# Will Kearney
 # constants.py
 #
 # this file contains constants used by different parts of the checkers game.

@@ -1,4 +1,4 @@
-# Candidate number: 244118
+# Will Kearney
 # game.py
 #
 # Defines the CheckersGame class, including the minimax algortihm, drawing things, and handling mouse clicks
