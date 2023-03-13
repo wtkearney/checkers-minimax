@@ -34,7 +34,7 @@ In this section, I address how my implementation addresses the marking criteria.
 
 ## 2.1 Gameplay
 
-![The splash screen is displayed on start, and allows the user to change AI difficulty level (easy, medium, or hard), AI gameplay style (normal or aggressive), and start the game.](./screenshots/splash-screen.png)
+<img src="./screenshots/splash-screen.png" alt="The splash screen is displayed on start, and allows the user to change AI difficulty level (easy, medium, or hard), AI gameplay style (normal or aggressive), and start the game." width="200">
 *Figure 1a: The splash screen is displayed on start, and allows the user to change AI difficulty level (easy, medium, or hard), AI gameplay style (normal or aggressive), and start the game.*
 
 ![A piece is outlined in red when selected by the user for movement. Legal moves are outlined in blue. In this example, a king is selected, and thus can move to any of the four diagonal tiles.](./screenshots/king-movement.png)
