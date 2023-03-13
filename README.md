@@ -57,6 +57,7 @@ The second part of the heuristic can be toggled on or off by the user on the spl
 <figure align="center">
     <img src="./screenshots/aggressive_gameplay_comparison.png" alt="Comparing the incorporation of an aggressive gameplay heuristic into the AI player static evaluation function. In one set of experiments both AI players played normally (orange lines), while in the other set the white AI player incorporated the aggressive heuristic into it’s static evaluation function (blue lines). Difficulty level for both AI players was set to medium. There are a total of 10 simulations shown by the transparent lines; thick lines are averages across all simulation runs.">
     <figcaption>Figure 2: Comparing the incorporation of an aggressive gameplay heuristic into the AI player static evaluation function. In one set of experiments both AI players played normally (orange lines), while in the other set the white AI player incorporated the aggressive heuristic into it’s static evaluation function (blue lines). Difficulty level for both AI players was set to medium. There are a total of 10 simulations shown by the transparent lines; thick lines are averages across all simulation runs.</figcaption>
+    <br>
 </figure>
 
 
